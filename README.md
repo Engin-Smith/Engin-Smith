@@ -1,3 +1,6 @@
+<p align="center"><a href="https://laravel.com" target="_blank">
+  <img src="https://www.canva.com/design/DAF7wCtqHVw/fv7AeAiGHH2TzW0pLEOSBw/edit?utm_content=DAF7wCtqHVw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="400" alt="Laravel Logo"></a></p>
+
 <p align="center">
   <img alig src="https://github.com/Engin-Smith/Engin-Smith/smith.png" />
  
